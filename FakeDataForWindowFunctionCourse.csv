@@ -1,0 +1,63 @@
+﻿employee_id,first_name,last_name,home_state,job_code,current_salary,low_salary,high_salary,median_salary,full_name,job_title,start_date
+20-2292666,Gaelan,Gaskoin,Massachusetts,2,79083,67501,80000,73750,Gaelan Gaskoin,Analyst 2,2008-02-02
+32-6900434,Neddy,Ertel,Connecticut,4,103142,92501,105000,98750,Neddy Ertel,Analyst 4,2008-08-05
+36-3278557,Georas,Melbourne,Massachusetts,3,88356,80001,92500,86250,Georas Melbourne,Analyst 3,2009-02-11
+52-4859458,Paddie,Stronough,Massachusetts,6,126092,117501,130000,123750,Paddie Stronough,Analyst 6,2009-06-27
+06-8065844,Cynde,Chaffen,Massachusetts,1,67390,55000,67500,61250,Cynde Chaffen,Analyst 1,2010-01-15
+36-3875081,Vito,Ashlin,Massachusetts,2,79127,67501,80000,73750,Vito Ashlin,Analyst 2,2010-02-05
+44-0017517,Estell,Wake,Connecticut,3,82031,80001,92500,86250,Estell Wake,Analyst 3,2010-06-01
+14-4506299,Raynor,McDonald,Connecticut,2,67701,67501,80000,73750,Raynor McDonald,Analyst 2,2010-10-07
+52-7551366,Jourdain,Masterman,Connecticut,1,59176,55000,67500,61250,Jourdain Masterman,Analyst 1,2010-11-30
+85-0453398,Seka,Munt,Massachusetts,1,57369,55000,67500,61250,Seka Munt,Analyst 1,2011-03-03
+47-1617522,Yasmin,Rame,Massachusetts,5,106248,105001,117500,111250,Yasmin Rame,Analyst 5,2011-03-10
+18-5211673,Tove,Benoi,Massachusetts,4,92570,92501,105000,98750,Tove Benoi,Analyst 4,2011-03-12
+94-3577794,Geoff,Newcom,Connecticut,2,78101,67501,80000,73750,Geoff Newcom,Analyst 2,2011-10-26
+92-8783121,Katerine,Spini,Massachusetts,3,92059,80001,92500,86250,Katerine Spini,Analyst 3,2011-11-06
+98-7729404,Roberta,Juster,Connecticut,4,98340,92501,105000,98750,Roberta Juster,Analyst 4,2011-11-24
+59-1854359,Skippy,Elman,Connecticut,6,124999,117501,130000,123750,Skippy Elman,Analyst 6,2012-02-10
+74-4341236,Glori,Brame,New Hampshire,3,89723,80001,92500,86250,Glori Brame,Analyst 3,2012-05-28
+85-1592138,Dennie,Espina,Massachusetts,3,88691,80001,92500,86250,Dennie Espina,Analyst 3,2013-03-25
+63-7917105,Christoper,Oliveti,New Hampshire,1,61760,55000,67500,61250,Christoper Oliveti,Analyst 1,2013-05-31
+63-7917105,Christoper,Oliveti,New Hampshire,5,109445,105001,117500,111250,Christoper Oliveti,Analyst 5,2013-05-31
+07-2722579,Roxane,Durnin,Massachusetts,6,121430,117501,130000,123750,Roxane Durnin,Analyst 6,2013-09-02
+47-1373736,Mattias,Crawley,Connecticut,2,78732,67501,80000,73750,Mattias Crawley,Analyst 2,2014-01-09
+44-1164444,Quincey,Devers,Connecticut,3,83402,80001,92500,86250,Quincey Devers,Analyst 3,2014-04-16
+31-1655068,Maryrose,Normanvill,Connecticut,1,58800,55000,67500,61250,Maryrose Normanvill,Analyst 1,2015-03-04
+62-2789798,Emmy,Chappelow,Massachusetts,4,99726,92501,105000,98750,Emmy Chappelow,Analyst 4,2015-06-24
+98-1626582,Langsdon,Cotgrove,Connecticut,2,78280,67501,80000,73750,Langsdon Cotgrove,Analyst 2,2015-09-29
+33-6231102,Roselin,Carpe,Massachusetts,3,89781,80001,92500,86250,Roselin Carpe,Analyst 3,2015-11-05
+95-5157469,Hettie,Lafaye,Connecticut,3,89070,80001,92500,86250,Hettie Lafaye,Analyst 3,2016-03-24
+07-3700891,Bridgette,Hayes,Massachusetts,4,99579,92501,105000,98750,Bridgette Hayes,Analyst 4,2016-05-10
+30-8311711,Feliza,McMurty,Massachusetts,5,110556,105001,117500,111250,Feliza McMurty,Analyst 5,2016-09-29
+14-2361843,Donella,Grassett,Massachusetts,1,65662,55000,67500,61250,Donella Grassett,Analyst 1,2017-04-24
+75-8843463,Becki,Lening,Connecticut,3,84532,80001,92500,86250,Becki Lening,Analyst 3,2017-05-15
+53-0465884,Cherri,Josselson,Connecticut,3,82192,80001,92500,86250,Cherri Josselson,Analyst 3,2017-11-07
+83-7789664,Cordi,Downer,New Hampshire,4,99929,92501,105000,98750,Cordi Downer,Analyst 4,2018-01-19
+70-9392548,Beryl,Sheer,Massachusetts,3,86498,80001,92500,86250,Beryl Sheer,Analyst 3,2018-03-26
+89-0728921,Lonny,Gowen,Massachusetts,3,89468,80001,92500,86250,Lonny Gowen,Analyst 3,2018-10-14
+09-7616132,Breena,Tomala,Connecticut,3,84911,80001,92500,86250,Breena Tomala,Analyst 3,2019-05-29
+95-3808259,Clerissa,Kynder,Connecticut,5,110776,105001,117500,111250,Clerissa Kynder,Analyst 5,2021-01-11
+58-9085474,Natassia,Dinsell,New Hampshire,3,84481,80001,92500,86250,Natassia Dinsell,Analyst 3,2021-05-26
+03-8330166,Osgood,Cradick,Connecticut,2,78542,67501,80000,73750,Osgood Cradick,Analyst 2,2021-08-05
+28-8927076,Nickola,Cowans,Maine,4,102168,92501,105000,98750,Nickola Cowans,Analyst 4,2022-06-24
+58-1892768,Konstantin,Brundle,Connecticut,3,85587,80001,92500,86250,Konstantin Brundle,Analyst 3,2022-10-17
+20-7504681,Sinclare,Ough,Massachusetts,5,115178,105001,117500,111250,Sinclare Ough,Analyst 5,2022-12-05
+94-6779391,Brynn,Pantone,Massachusetts,2,71768,67501,80000,73750,Brynn Pantone,Analyst 2,2022-12-05
+16-8252026,Donella,Widger,Connecticut,5,107007,105001,117500,111250,Donella Widger,Analyst 5,2022-12-12
+88-4158524,Reeva,Burdass,Massachusetts,6,124492,117501,130000,123750,Reeva Burdass,Analyst 6,2023-03-14
+54-5223206,Liam,Peaurt,Massachusetts,1,55391,55000,67500,61250,Liam Peaurt,Analyst 1,2023-04-23
+83-4641221,Gayla,Hancorn,Massachusetts,2,68938,67501,80000,73750,Gayla Hancorn,Analyst 2,2023-07-09
+21-7349711,Jaquelin,Akerman,Massachusetts,6,124231,117501,130000,123750,Jaquelin Akerman,Analyst 6,2023-08-03
+43-2879381,Gizela,Eidler,Massachusetts,6,127736,117501,130000,123750,Gizela Eidler,Analyst 6,2023-11-26
+36-9950927,Myrah,Kewzick,Massachusetts,4,92863,92501,105000,98750,Myrah Kewzick,Analyst 4,2023-12-11
+03-1679002,Beatrice,Hightown,Connecticut,4,93576,92501,105000,98750,Beatrice Hightown,Analyst 4,2024-05-24
+88-4981178,Ketty,Huzzay,New Hampshire,4,94778,92501,105000,98750,Ketty Huzzay,Analyst 4,2024-07-16
+51-3027701,Modesty,Bysaker,Connecticut,3,80533,80001,92500,86250,Modesty Bysaker,Analyst 3,2024-08-09
+86-5312028,Arlyn,Pipe,Connecticut,3,81453,80001,92500,86250,Arlyn Pipe,Analyst 3,2024-11-18
+17-4275078,Dalton,Cheng,Connecticut,3,88851,80001,92500,86250,Dalton Cheng,Analyst 3,2024-12-15
+74-8266123,Rog,Askell,Massachusetts,1,55167,55000,67500,61250,Rog Askell,Analyst 1,2025-01-06
+00-0966581,Renelle,Kenworthy,New Hampshire,3,87420,80001,92500,86250,Renelle Kenworthy,Analyst 3,2024-12-23
+36-9918969,Nikaniki,Garroch,Massachusetts,2,73473,67501,80000,73750,Nikaniki Garroch,Analyst 2,2025-01-06
+60-9289984,Ray,Ianelli,Massachusetts,3,90193,80001,92500,86250,Ray Ianelli,Analyst 3,2025-01-06
+96-3712043,Zach,Brickwood,Massachusetts,3,89865,80001,92500,86250,Zach Brickwood,Analyst 3,2025-01-06
+01-7472176,Nehemiah,Noel,Massachusetts,3,89293,80001,92500,86250,Nehemiah Noel,Analyst 3,2025-01-06
